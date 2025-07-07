@@ -1,6 +1,6 @@
 
 fastapi
-numpy==1.24.3
+numpy==1.23.5
 uvicorn[standard]
 python-multipart
 openai-whisper
